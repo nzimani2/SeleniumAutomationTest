@@ -1,21 +1,21 @@
 # selenium-automation-test
 This project is a sample for automation testing assignment 
 
-Coding Language
+Coding Language\
 Java
 
-Test Automation Framework
+Test Automation Framework\
 Selenium WebDriver
 
-Testing Framework
+Testing Framework\
 JUnit 5
 
-Project Build Tool
+Project Build Tool\
 Maven
 
-Project Reporting 
+Project Reporting \
 Surefire Report
 
-Required Execution Environment
-Compiler: JDK 16
-Browser: Google Chrome
+Required Execution Environment\
+Compiler: JDK 16\
+Browser: Google Chrome\
