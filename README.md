@@ -1,5 +1,5 @@
 # selenium-automation-test
-This project is a sample for automation testing assignment tested on website https://hotel.testplanisphere.dev/ja/.
+This project is a sample for automation testing assignment tested on website https://hotel.testplanisphere.dev/ja/, signup menu.
 
 ### Coding Language
 Java
