@@ -17,7 +17,7 @@ public class Utils {
 	
 	public static WebDriver initWebDriver() {
 		//driver executable setting
-		System.setProperty("webdriver.chrome.driver", "C:\\imani-workspace\\Planisphere-Test\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "..\\SeleniumProject\\chromedriver.exe");
 		//initialize Chrome driver
 		var driver = new ChromeDriver();
 		//apply wait time
