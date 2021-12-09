@@ -10,6 +10,9 @@ Selenium WebDriver
 ### Testing Framework
 JUnit 5
 
+### Browser Driver
+Chrome Driver
+
 ### Project Build Tool
 Maven
 
